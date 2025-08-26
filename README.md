@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
