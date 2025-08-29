@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 <!---LeetCode Topics End-->
