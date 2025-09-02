@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
