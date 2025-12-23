@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0567-permutation-in-string) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0169-majority-element) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
