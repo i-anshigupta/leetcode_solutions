@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
