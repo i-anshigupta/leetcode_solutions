@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1895-largest-magic-square) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -154,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1895-largest-magic-square](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
