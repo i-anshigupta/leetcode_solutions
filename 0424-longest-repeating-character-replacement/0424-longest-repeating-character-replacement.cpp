@@ -1,19 +1,19 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        vector<int>count(26,0);
-        int left=0,maxCount=0,maxLen=0;
-
-        for(int right=0;right<(int)s.size();++right){
-            count[s[right]-'A']++;
-            maxCount=max(maxCount,count[s[right]-'A']);
-
-            while((right-left+1)-maxCount>k){
-                count[s[left]-'A']--;
+        int n=s.size();
+        if(n==0) return 0;
+        vector<int> freq(26,0);
+        int left=0,maxFreq=0,ans=0;
+        for(int right=0;right<n;right++){
+            freq[s[right]-'A']++;
+            maxFreq= max(maxFreq,freq[s[right]-'A']);
+            while((right-left+1)-maxFreq>k){
+                freq[s[left]-'A']--;
                 left++;
             }
-             maxLen = max(maxLen, right - left + 1);
+            ans=max(ans,(right-left+1));
         }
-        return maxLen;
+        return ans;
     }
 };
