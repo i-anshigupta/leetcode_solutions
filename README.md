@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Dynamic Programming
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0231-power-of-two) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Recursion
 |  |
