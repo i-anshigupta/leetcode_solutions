@@ -1,0 +1,15 @@
+
+class Solution {
+  public:
+    int smallestSumSubarray(vector<int>& a) {
+        int best=a[0];
+        int ans=a[0];
+        for(int i=1;i<a.size();i++){
+            int v1=best+a[i];
+            int v2=a[i];
+            best=min(v1,v2);
+            ans=min(best,ans);
+        }
+        return ans;
+    }
+};
