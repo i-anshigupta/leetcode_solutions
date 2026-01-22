@@ -1,33 +1,31 @@
 class Solution {
 public:
-    int minimumPairRemoval(vector<int>& nums) {
-        int count =0;
-
-        int n= nums.size();
-
-        while(!is_sorted(nums.begin(),nums.end())){
-            int mini = 1e9;
-            int index = 0;
-            count++;
-            for(int i=0;i<nums.size()-1;i++){
-                if(nums[i]+nums[i+1]<mini){
-                    mini =nums[i]+nums[i+1];
-                    index =i;
-                }
-            }
-
-            vector<int> ans;
-            for(int i=0;i<nums.size();i++){
-                if(index!=i){
-                    ans.push_back(nums[i]);
-                }else{
-                    ans.push_back(mini);
-                    i++;
-                }
-            }
-
-            nums =ans;
+    bool isNotSorted(const vector<int>& nums) {
+        for (int i = 0; i + 1 < (int)nums.size(); i++) {
+            if (nums[i] > nums[i + 1]) return true;
         }
-        return count;
+        return false;
+    }
+    
+    int minimumPairRemoval(vector<int>& nums) {
+        int operations = 0;
+        while (isNotSorted(nums)) {
+            int idx = 0;
+            int minSum = nums[0] + nums[1];
+            for (int i = 1; i + 1 < (int)nums.size(); i++) {
+                int sum = nums[i] + nums[i + 1];
+                if (sum < minSum) {
+                    minSum = sum;
+                    idx = i;
+                }
+            }
+
+            nums[idx] = nums[idx] + nums[idx + 1];
+            nums.erase(nums.begin() + (idx + 1));
+            
+            operations++;
+        }
+        
+        return operations;
     }
 };
