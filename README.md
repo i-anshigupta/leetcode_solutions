@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0018-4sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0169-majority-element) |
 ## Counting
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Prefix Sum
