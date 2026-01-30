@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [1628-count-submatrices-with-all-ones](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -211,10 +214,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
