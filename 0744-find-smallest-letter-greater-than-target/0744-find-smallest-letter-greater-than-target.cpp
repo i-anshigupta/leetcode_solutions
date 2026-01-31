@@ -14,7 +14,6 @@ public:
                 if (ch > target && ch < res) res = ch;
             }
         }
-
-        return res;
+         return res;
     }
 };
