@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1572-matrix-diagonal-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1628-count-submatrices-with-all-ones](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Prefix Sum
