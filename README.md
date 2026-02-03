@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3637-trionic-array-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3637-trionic-array-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Dynamic Programming
 |  |
