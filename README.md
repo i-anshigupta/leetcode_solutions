@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1572-matrix-diagonal-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1628-count-submatrices-with-all-ones](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1895-largest-magic-square](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1895-largest-magic-square) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1572-matrix-diagonal-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1628-count-submatrices-with-all-ones](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1895-largest-magic-square](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1895-largest-magic-square) |
 ## Monotonic Stack
