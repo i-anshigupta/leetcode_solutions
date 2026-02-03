@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
