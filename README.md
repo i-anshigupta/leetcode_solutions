@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0231-power-of-two) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
