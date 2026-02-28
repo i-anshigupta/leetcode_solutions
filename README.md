@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0231-power-of-two) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3379-transformed-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
