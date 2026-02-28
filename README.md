@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3830-find-closest-person) |
 ## Geometry
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 |  |
 | ------- |
@@ -313,4 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0401-binary-watch) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
