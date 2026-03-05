@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
