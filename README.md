@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
