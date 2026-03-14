@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
