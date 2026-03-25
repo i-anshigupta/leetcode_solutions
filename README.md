@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3637-trionic-array-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3640-trionic-array-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1895-largest-magic-square) |
+| [3546-equal-sum-grid-partition-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Heap (Priority Queue)
 |  |
