@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0657-robot-return-to-origin](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
