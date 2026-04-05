@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0231-power-of-two) |
 | [1622-fancy-sequence](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1622-fancy-sequence) |
