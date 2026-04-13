@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1628-count-submatrices-with-all-ones](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
