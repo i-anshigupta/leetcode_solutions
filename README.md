@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3379-transformed-array) |
+| [3488-closest-equal-element-queries](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/i-anshigupta/leetcode_solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3488-closest-equal-element-queries](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/i-anshigupta/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/i-anshigupta/leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/i-anshigupta/leetcode_solutions/tree/master/3488-closest-equal-element-queries) |
 ## Prefix Sum
 |  |
 | ------- |
